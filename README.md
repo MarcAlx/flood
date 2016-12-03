@@ -16,7 +16,7 @@ The goal is simple : fill the matrix with the same color in less than 50 color c
 
 Builds needs toaster.jar (available on my github) use ant to package toaster.jar into a single .jar
 
-Usable jar is provided in "Release" folder. toaster.jar is provided in "dist" folder.
+Usable jar is provided in "store" folder. toaster.jar is provided in "dist" folder.
 
 ## License
 
